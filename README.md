@@ -556,5 +556,6 @@ The current project is intended for local development. A single-service producti
 
 ## License
 
-Add your preferred open-source license before publishing the project publicly.
-# TaleFjord
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
