@@ -3,6 +3,8 @@
 
 **TaleFjord** is a lightweight, locally running audio and video transcription application powered by [FastAPI](https://fastapi.tiangolo.com/) and [faster-whisper](https://github.com/SYSTRAN/faster-whisper).
 
+![TaleFjord Interface](output/frontend.png)
+
 Upload an audio or video file, select a transcription language and Whisper model, and get your transcript directly in your browser.
 
 No paid API keys or cloud transcription services are required.
